@@ -16,14 +16,8 @@ int main()
 {
     int  a;
     cin>>a;
-   // if(a==1 || a==2)
-    {
-   //     cout<<"2"<<endl;
-    }
-//   else
-    {
-        //cout<<2*fact(a)<<endl;
+ 
         printf("%u",2*fact(a));
-    }
+    
     return 0;
 }
